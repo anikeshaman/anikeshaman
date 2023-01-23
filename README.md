@@ -6,14 +6,14 @@
 ### <div align="center"><img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" height="35px" />  I'm Anikesh, A Full Stack Web Developer and Flutter Developer🚀</div>  
   
 
-- 🔭 I’m currently working on Mobile Development  
+- 🔭 I’m currently working on **Mobile Development**  
   [
 ](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 
-- 🌱 I’m currently learning DSA and Full Stack Web Development  
+- 🌱 I’m currently learning **DSA and Full Stack Web Development**  
   
 
-- ❓ Ask me about anything related to MERN Stack and related technologies  
+- ❓ Ask me about anything related to **MERN Stack and related technologies**  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
